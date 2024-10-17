@@ -47,6 +47,5 @@ public class Cola<T> {
         T elemento = actual.dato;
         actual = null;
         return elemento;
-
     }
 }
