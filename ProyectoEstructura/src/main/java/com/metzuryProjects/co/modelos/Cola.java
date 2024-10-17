@@ -37,7 +37,7 @@ public class Cola<T> {
             }
             actual = null;
         }
-        tamano --;
+        this.tamano --;
     }
     public T eliminar(int indice){
         Nodo<T> actual = this.cabeza;
@@ -46,6 +46,7 @@ public class Cola<T> {
         }
         T elemento = actual.dato;
         actual = null;
+        this.tamano --;
         return elemento;
     }
 }
