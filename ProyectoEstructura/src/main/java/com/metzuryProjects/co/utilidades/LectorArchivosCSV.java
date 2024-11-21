@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 
-import com.metzuryProjects.co.modelos.LinkedList;
+import com.metzuryProjects.co.modelos.ListaEnlazada;
 
 public class LectorArchivosCSV {
      // TODO Consultar el separador csv desde un archivo de propiedades.
@@ -31,17 +31,17 @@ public class LectorArchivosCSV {
         return null;
     }
 
-    public static LinkedList<String[]> leerTodasLasLineasCsv(String rutaArchivo)//usamos la LinkedList creada por nosotros.
+    public static ListaEnlazada<String[]> leerTodasLasLineasCsv(String rutaArchivo)//usamos la LinkedList creada por nosotros.
             throws IOException {
         return leerTodasLasLineasCsv(rutaArchivo,true);
     }
 
-    public static LinkedList<String[]> leerTodasLasLineasCsv(
+    public static ListaEnlazada<String[]> leerTodasLasLineasCsv(
             String rutaArchivo, boolean esSaltarPrimera
     ) throws IOException {
 
         File archivo = new File(rutaArchivo);
-        LinkedList<String[]> lineas = new LinkedList<>();
+        ListaEnlazada<String[]> lineas = new ListaEnlazada<>();
 
         try(BufferedReader lector = new BufferedReader(
                 new InputStreamReader(new FileInputStream(archivo), StandardCharsets.UTF_8))
@@ -56,7 +56,7 @@ public class LectorArchivosCSV {
                 }
 
                 String[] arreglo = linea.split(LectorArchivosCSV.SEPARADOR_CSV);
-                lineas.agregar(arreglo);//uso del metodo agregar de linkedlist personal.
+                lineas.agregarAlInicio(arreglo);//uso del metodo agregar de linkedlist personal.
             }
         }
 

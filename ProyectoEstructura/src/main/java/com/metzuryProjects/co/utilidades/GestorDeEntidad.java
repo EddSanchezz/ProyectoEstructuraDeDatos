@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.metzuryProjects.co.modelos.LinkedList;
+import com.metzuryProjects.co.modelos.ListaEnlazada;
 
 public class GestorDeEntidad {
 
@@ -35,10 +35,10 @@ public class GestorDeEntidad {
     @SuppressWarnings("unchecked")
     public <ClaseEntidad> List<ClaseEntidad> obtenerTodos(Class<ClaseEntidad> claseEntidad) {
 
-        LinkedList<ClaseEntidad> entidades = new LinkedList<>();
+        ListaEnlazada<ClaseEntidad> entidades = new ListaEnlazada<>();
 
         try {
-            LinkedList<String[]> lineas = LectorArchivosCSV.leerTodasLasLineasCsv(this.rutaArchivo);
+            ListaEnlazada<String[]> lineas = LectorArchivosCSV.leerTodasLasLineasCsv(this.rutaArchivo);
 
             for (String[] linea : lineas) {
                 ClaseEntidad instancia = claseEntidad.getDeclaredConstructor().newInstance();
@@ -62,7 +62,7 @@ public class GestorDeEntidad {
                     }
                 }
 
-                entidades.agregar(instancia);
+                entidades.agregarAlInicio(instancia);
             }
         } catch (Exception e) {
             throw new RuntimeException(e);
