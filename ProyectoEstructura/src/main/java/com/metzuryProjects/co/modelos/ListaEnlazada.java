@@ -3,12 +3,12 @@ package com.metzuryProjects.co.modelos;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-public class ListaEnlazada<T> implements Iterable<T> {
+public class ListaEnlazada<T> implements Collections<T> {
     private Nodo<T> cabeza;
     private Nodo<T> cola;
     private int tamaño;
 
-    private static class Nodo<T> {
+    static class Nodo<T> {
         private T dato;
         private Nodo<T> siguiente;
         private Nodo<T> anterior;

@@ -1,3 +1,6 @@
-documento;;nombre;;ciudad;;edad;;semanasCotizadas;;embargo;;inhabilitado;;haEstadolistaNegra6meses;;prePensionado;;entidadPublica;
-972612098;;Mateo Gomez;;Bogota;;32;;111;;FALSE;;FALSE;;TRUE;;FALSE;
-821212222;;Pedro Ruiz;;Armenia;;25;;123;;FALSE;;TRUE;;FASE;;TRUE;
+id_cotizante;;cedula;;nombre;;edad;;ciudad;;semanasCotizadas;;declaraRenta;;fondoDePensiones;;entidadPublica
+1;;101;;Juan Perez;;65;;Bogota;;820;;true;;Porvenir;;Armada
+2;;102;;Maria Lopez;;30;;Armenia;;120;;true;;Colfondos;;Null
+3;;103;;Carlos Ruiz;;28;;Armenia;;70;;true;;Old Mutual;;Policía
+4;;104;;Santiago Marin;;65;;Armenia;;270;;true;;Old Mutual,Policía
+5;;105;;Yeison Martinez;;65;;Armenia;;270;;true;;Old Mutual;;Inpec
