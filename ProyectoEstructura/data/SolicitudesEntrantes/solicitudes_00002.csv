@@ -1,0 +1,235 @@
+tipoDocumento,numeroDocumento,nombreCompleto,fechaNacimiento,prePensionado,semanasCotizadas,fondoOrigen,ciudadNacimiento,ciudadResidencia,institucionPublica,tieneCondecoracion,tieneHijosInpec,familiaresPolicia,observacionDisciplinaria,declaranteRenta
+CC,79970839,Patricia Sánchez,21/11/1972,true,850,Proteccion,Bogotá,Cali,Mininterior,false,true,false,false,false
+PA,05152999,Juan García,21/11/1963,true,463,Porvenir,Medellín,Cartagena,Policía,false,true,true,true,false
+PA,62727280,Patricia González,21/11/1974,false,265,Old Mutual,Barranquilla,Cartagena,Armada,true,false,true,false,true
+CC,16494769,Pedro Pérez,21/11/1986,false,181,Porvenir,Cartagena,Cali,Ninguna,true,false,true,true,true
+CC,13719959,Patricia González,21/11/2006,false,281,Old Mutual,Bogotá,Medellín,Armada,false,true,true,true,false
+CE,23161453,Carmen López,21/11/1987,false,266,Colfondos,Barranquilla,Cartagena,Inpec,true,false,false,false,false
+CE,92477380,Pedro González,21/11/1999,false,480,Proteccion,Cali,Cali,Policía,false,false,false,false,true
+CE,98793254,María López,21/11/1993,false,414,Old Mutual,Barranquilla,Cartagena,Minsalud,false,false,true,true,false
+CC,14982577,Carmen Martínez,21/11/1966,true,816,Colfondos,Medellín,Cartagena,Mininterior,false,true,true,false,true
+PA,38918762,Juan García,21/11/1976,false,545,Colfondos,Cartagena,Barranquilla,Minsalud,false,true,false,true,false
+CE,04982727,María Sánchez,21/11/1961,false,968,Colfondos,Bogotá,Medellín,Minsalud,false,false,false,false,true
+PA,77375522,Pedro Martínez,21/11/1994,false,121,Porvenir,Bogotá,Cartagena,Inpec,true,true,true,false,true
+CE,69722873,Patricia González,21/11/1965,false,307,Old Mutual,Cali,Cali,Inpec,true,false,true,true,false
+CE,47142116,Patricia López,21/11/2006,false,440,Porvenir,Barranquilla,Bogotá,Minsalud,false,false,false,false,true
+CC,31148518,José Martínez,21/11/2004,false,351,Colfondos,Medellín,Cartagena,Ninguna,true,true,false,false,true
+CC,68281286,Carmen García,21/11/1964,true,842,Porvenir,Cali,Barranquilla,Inpec,false,false,false,true,true
+CE,14209534,Pedro Sánchez,21/11/1963,false,236,Colfondos,Barranquilla,Cali,Armada,false,false,true,true,false
+CC,83960908,Luis Rodríguez,21/11/1994,false,806,Colfondos,Bogotá,Cali,Armada,false,false,true,false,false
+CC,92832370,María González,21/11/1975,true,363,Proteccion,Bogotá,Medellín,Ninguna,false,false,true,true,false
+CE,01476806,Carmen Martínez,21/11/2006,false,926,Colfondos,Cali,Barranquilla,Inpec,false,false,false,false,true
+CC,63603435,Juan González,21/11/1968,false,188,Porvenir,Barranquilla,Medellín,Policía,true,false,false,true,true
+CE,18855410,Luis Pérez,21/11/1975,false,575,Colfondos,Barranquilla,Barranquilla,Mininterior,true,false,false,true,false
+PA,04259351,Pedro García,21/11/1990,false,414,Old Mutual,Barranquilla,Medellín,Mininterior,true,false,false,false,true
+PA,37578095,José Martínez,21/11/1979,false,326,Porvenir,Barranquilla,Medellín,Minsalud,false,false,false,true,true
+CE,74474313,María González,21/11/2004,false,494,Colfondos,Bogotá,Cartagena,Ninguna,true,true,true,true,true
+PA,36432674,María Rodríguez,21/11/1978,false,370,Colfondos,Cartagena,Medellín,Minsalud,false,true,true,true,true
+CC,11213165,María López,21/11/1973,true,187,Old Mutual,Barranquilla,Bogotá,Armada,true,false,false,true,true
+PA,72310610,Juan López,21/11/1990,false,624,Porvenir,Cali,Bogotá,Ninguna,true,false,true,false,false
+CC,38474720,Carmen Pérez,21/11/1979,true,197,Porvenir,Medellín,Bogotá,Minsalud,false,true,false,true,true
+CC,88366302,José Sánchez,21/11/1989,false,978,Old Mutual,Barranquilla,Bogotá,Ninguna,true,true,false,false,false
+PA,17093798,José Rodríguez,21/11/2004,false,444,Proteccion,Medellín,Cartagena,Policía,false,true,true,false,false
+CC,10162321,José García,21/11/1968,false,873,Colfondos,Medellín,Bogotá,Policía,false,false,false,false,false
+CC,60379581,María Rodríguez,21/11/1991,false,466,Colfondos,Barranquilla,Medellín,Armada,false,false,false,false,false
+CE,57772344,María Sánchez,21/11/1982,false,230,Colfondos,Medellín,Barranquilla,Ninguna,false,true,false,true,true
+CC,51199847,María García,21/11/1981,false,308,Proteccion,Medellín,Cali,Mininterior,false,true,false,true,false
+PA,00756931,Patricia Martínez,21/11/2005,false,570,Old Mutual,Cali,Cartagena,Inpec,true,false,false,true,false
+CE,95498575,Carmen Martínez,21/11/1983,false,207,Proteccion,Barranquilla,Barranquilla,Ninguna,false,false,false,true,false
+PA,24309579,Juan Martínez,21/11/1997,false,689,Proteccion,Bogotá,Bogotá,Mininterior,false,false,false,false,true
+CE,21963186,Patricia Rodríguez,21/11/1985,true,783,Porvenir,Bogotá,Barranquilla,Policía,false,true,true,false,true
+CC,80648070,Juan López,21/11/1960,false,678,Proteccion,Barranquilla,Cali,Armada,true,true,false,false,true
+CC,04286123,Pedro García,21/11/1976,false,431,Porvenir,Barranquilla,Bogotá,Ninguna,false,false,false,true,true
+CC,90095062,María García,21/11/1994,false,273,Colfondos,Barranquilla,Cartagena,Armada,true,true,false,false,false
+CC,19566081,Carmen González,21/11/1965,false,494,Colfondos,Cali,Bogotá,Mininterior,false,false,true,true,false
+CC,56548258,José Sánchez,21/11/1981,false,233,Old Mutual,Bogotá,Barranquilla,Inpec,false,true,false,false,false
+CC,87384188,Ana Pérez,21/11/1962,false,468,Porvenir,Cali,Cali,Ninguna,true,true,true,true,false
+PA,75020200,Patricia García,21/11/1973,false,457,Proteccion,Cartagena,Bogotá,Mininterior,false,false,true,false,true
+CE,22724117,Carmen Sánchez,21/11/1983,false,315,Proteccion,Cali,Medellín,Armada,false,true,false,false,false
+CE,57743433,Juan Rodríguez,21/11/1981,true,705,Old Mutual,Bogotá,Barranquilla,Minsalud,false,true,true,false,false
+CC,89012423,Ana González,21/11/1959,false,978,Proteccion,Barranquilla,Medellín,Mininterior,false,true,true,true,true
+CE,35004015,Luis Sánchez,21/11/2000,true,897,Porvenir,Barranquilla,Cali,Minsalud,true,false,true,true,false
+CE,50689546,Pedro García,21/11/1963,false,197,Proteccion,Medellín,Cali,Armada,false,false,true,true,false
+CC,88190556,José Pérez,21/11/1987,true,249,Colfondos,Cartagena,Cartagena,Mininterior,true,true,true,true,true
+CC,27757990,José Rodríguez,21/11/1982,false,102,Proteccion,Cali,Cartagena,Policía,true,true,true,false,true
+CE,33769961,Carmen González,21/11/1972,true,415,Old Mutual,Medellín,Barranquilla,Armada,true,false,true,false,false
+CC,74900845,José López,21/11/1972,true,674,Porvenir,Barranquilla,Cali,Ninguna,true,true,true,false,true
+PA,28481814,José Rodríguez,21/11/1986,false,747,Colfondos,Medellín,Medellín,Ninguna,true,true,false,false,false
+PA,38594687,Carmen Pérez,21/11/1982,false,867,Proteccion,Cartagena,Cali,Policía,true,false,true,true,true
+CE,79130391,Carmen Sánchez,21/11/1989,false,604,Porvenir,Cali,Medellín,Mininterior,false,true,false,false,true
+CC,85493743,Ana Pérez,21/11/1959,false,947,Proteccion,Medellín,Bogotá,Policía,true,false,false,false,true
+CE,64257373,Luis González,21/11/1991,false,250,Porvenir,Barranquilla,Bogotá,Minsalud,true,false,false,true,true
+PA,35273752,Pedro López,21/11/1974,false,854,Colfondos,Cali,Medellín,Inpec,true,true,true,true,true
+PA,92786973,Carmen López,21/11/1972,false,926,Old Mutual,Cartagena,Cartagena,Inpec,true,true,false,false,true
+CC,67394487,Juan García,21/11/1986,false,223,Old Mutual,Medellín,Cartagena,Minsalud,false,true,true,true,true
+PA,22776863,José García,21/11/1989,false,482,Old Mutual,Medellín,Medellín,Inpec,true,false,true,true,true
+PA,93623147,José Rodríguez,21/11/1999,false,586,Colfondos,Cartagena,Medellín,Mininterior,true,true,true,false,false
+CE,84779413,Juan García,21/11/1982,false,737,Porvenir,Bogotá,Bogotá,Mininterior,true,false,false,false,true
+CC,32692173,Pedro Sánchez,21/11/1986,false,232,Porvenir,Cartagena,Bogotá,Minsalud,false,true,false,false,false
+CC,80386553,José González,21/11/1999,false,228,Old Mutual,Medellín,Medellín,Ninguna,false,false,true,false,false
+PA,83800103,Carmen López,21/11/1980,false,523,Colfondos,Bogotá,Cartagena,Ninguna,true,false,true,false,false
+PA,33884933,Patricia López,21/11/1990,false,769,Colfondos,Cartagena,Bogotá,Policía,true,true,true,true,false
+CC,87793955,Juan González,21/11/1985,true,841,Colfondos,Bogotá,Bogotá,Ninguna,true,false,true,false,true
+PA,59052278,María López,21/11/1991,false,722,Proteccion,Medellín,Cali,Mininterior,true,false,true,true,false
+CC,23148740,Carmen Pérez,21/11/1993,false,996,Old Mutual,Medellín,Cali,Ninguna,false,false,false,false,false
+PA,53948781,Pedro García,21/11/1975,false,443,Old Mutual,Barranquilla,Medellín,Armada,true,true,true,true,false
+CC,02481984,Ana Sánchez,21/11/1970,false,601,Porvenir,Bogotá,Cartagena,Ninguna,true,true,false,true,true
+PA,45280110,Pedro García,21/11/1965,false,891,Proteccion,Barranquilla,Cartagena,Minsalud,true,true,false,true,false
+CC,07499331,José Rodríguez,21/11/1975,false,980,Colfondos,Barranquilla,Cartagena,Ninguna,true,true,true,true,false
+CE,86644986,María López,21/11/1984,false,439,Old Mutual,Cali,Barranquilla,Armada,false,true,true,false,false
+PA,30002058,María Martínez,21/11/2004,false,246,Old Mutual,Barranquilla,Barranquilla,Policía,true,true,true,true,true
+CE,55798287,Patricia Martínez,21/11/1965,true,410,Old Mutual,Medellín,Bogotá,Policía,true,true,false,true,false
+CE,94969473,Patricia Martínez,21/11/1995,false,107,Old Mutual,Cartagena,Barranquilla,Ninguna,true,false,false,false,true
+PA,50998487,Patricia García,21/11/2002,false,299,Porvenir,Medellín,Medellín,Ninguna,false,true,false,false,false
+CC,77202478,José González,21/11/1994,false,928,Colfondos,Bogotá,Medellín,Mininterior,false,false,true,true,false
+PA,25427704,Carmen García,21/11/1979,false,576,Old Mutual,Barranquilla,Cartagena,Policía,false,false,false,false,false
+CC,81174583,Pedro Martínez,21/11/1996,false,789,Old Mutual,Cali,Medellín,Mininterior,false,false,false,true,true
+CC,84260386,Carmen García,21/11/1999,false,654,Colfondos,Medellín,Cartagena,Mininterior,true,false,false,true,true
+PA,69456813,Juan Sánchez,21/11/1999,false,250,Old Mutual,Medellín,Barranquilla,Policía,false,false,true,false,true
+CC,44285441,Patricia Pérez,21/11/2004,false,513,Proteccion,Barranquilla,Bogotá,Minsalud,true,false,false,false,true
+PA,27709585,Patricia Sánchez,21/11/1969,true,539,Proteccion,Barranquilla,Cali,Policía,true,true,true,true,true
+PA,84313083,José Sánchez,21/11/1990,false,607,Porvenir,Cartagena,Bogotá,Policía,false,true,true,false,true
+PA,15662085,Carmen Sánchez,21/11/1997,false,510,Proteccion,Cali,Cali,Inpec,false,false,false,false,false
+CC,61404184,Pedro Martínez,21/11/1960,false,703,Colfondos,Bogotá,Cali,Minsalud,true,false,false,false,true
+CE,44238184,José González,21/11/1967,false,418,Porvenir,Bogotá,Cali,Inpec,true,true,false,false,false
+CE,95515064,Patricia Rodríguez,21/11/2006,false,689,Old Mutual,Medellín,Cali,Inpec,true,true,false,false,false
+PA,84124538,Pedro Pérez,21/11/1987,true,225,Porvenir,Cartagena,Cartagena,Policía,true,false,true,true,false
+CC,24733637,Carmen Sánchez,21/11/1997,false,902,Porvenir,Cali,Bogotá,Inpec,false,false,false,true,true
+PA,18516253,José Sánchez,21/11/1975,false,141,Proteccion,Barranquilla,Cali,Inpec,true,true,true,true,true
+CE,89509527,Carmen López,21/11/1988,false,477,Old Mutual,Cartagena,Cartagena,Mininterior,true,false,false,true,false
+CC,57503640,Pedro Pérez,21/11/1975,false,156,Colfondos,Medellín,Cali,Inpec,true,false,true,true,true
+CE,69157928,Patricia López,21/11/1975,false,128,Old Mutual,Cali,Barranquilla,Armada,false,true,false,false,false
+PA,11663093,Carmen Sánchez,21/11/1961,false,129,Proteccion,Cartagena,Medellín,Policía,false,false,false,true,false
+CC,54967787,Carmen García,21/11/1963,false,201,Porvenir,Barranquilla,Bogotá,Mininterior,true,true,false,true,false
+PA,62772515,Ana García,21/11/1971,false,343,Old Mutual,Cali,Medellín,Inpec,true,false,false,true,false
+PA,43205015,Juan González,21/11/1981,false,279,Proteccion,Barranquilla,Cali,Inpec,true,true,true,false,true
+CE,45176595,José Rodríguez,21/11/1975,false,215,Porvenir,Medellín,Cartagena,Inpec,true,false,true,false,false
+CE,19555425,Carmen Martínez,21/11/1991,false,817,Colfondos,Medellín,Cartagena,Minsalud,false,true,false,true,true
+CC,66667858,Juan Sánchez,21/11/1971,false,206,Old Mutual,Bogotá,Cali,Armada,false,true,false,true,false
+CC,27934744,María López,21/11/1975,false,788,Old Mutual,Cali,Cartagena,Minsalud,true,true,false,false,false
+CE,38846203,Luis Pérez,21/11/1984,false,179,Colfondos,Bogotá,Medellín,Mininterior,true,true,true,false,true
+PA,92461380,María López,21/11/1960,false,633,Old Mutual,Medellín,Cali,Policía,true,false,false,false,false
+CC,75262396,Pedro García,21/11/1975,false,696,Porvenir,Cali,Bogotá,Mininterior,false,false,false,true,false
+CC,17170602,María López,21/11/1973,false,862,Old Mutual,Cartagena,Cali,Ninguna,true,true,false,false,false
+PA,84898475,José Pérez,21/11/1980,false,380,Old Mutual,Medellín,Bogotá,Armada,false,true,true,false,false
+PA,59185433,José García,21/11/1961,true,953,Old Mutual,Cartagena,Barranquilla,Minsalud,true,true,true,true,true
+CE,69963986,María González,21/11/1968,false,743,Proteccion,Cali,Medellín,Policía,true,false,true,false,true
+CE,68412539,José Pérez,21/11/1961,false,578,Old Mutual,Medellín,Cali,Inpec,true,true,false,true,true
+PA,79170931,Ana Martínez,21/11/2006,false,475,Colfondos,Cartagena,Cartagena,Policía,false,false,true,false,false
+CE,73961798,Carmen Martínez,21/11/1992,false,260,Porvenir,Cartagena,Cali,Inpec,false,true,false,true,true
+CC,48426257,Luis García,21/11/2003,false,686,Proteccion,Barranquilla,Bogotá,Inpec,true,false,true,false,false
+PA,66630587,José Rodríguez,21/11/1970,false,563,Old Mutual,Medellín,Cartagena,Ninguna,false,true,false,false,true
+PA,13913377,Patricia García,21/11/1976,true,729,Proteccion,Medellín,Medellín,Ninguna,true,false,false,true,false
+CE,85588043,Pedro López,21/11/1989,false,857,Proteccion,Bogotá,Cali,Minsalud,false,false,false,false,true
+CC,72799395,Luis García,21/11/1959,false,461,Old Mutual,Medellín,Cali,Policía,false,false,false,false,false
+PA,84991184,María González,21/11/1998,false,237,Colfondos,Bogotá,Barranquilla,Armada,true,false,false,false,true
+CC,90895816,Juan Martínez,21/11/1968,true,874,Old Mutual,Cali,Medellín,Minsalud,true,false,false,true,false
+CC,68260158,Ana García,21/11/1991,false,928,Old Mutual,Cartagena,Cartagena,Inpec,false,false,true,false,false
+CC,84343863,Ana González,21/11/1962,false,578,Old Mutual,Cali,Cali,Armada,false,false,true,false,true
+CE,25868966,Carmen Rodríguez,21/11/1986,false,137,Colfondos,Cartagena,Medellín,Inpec,false,false,false,false,false
+CE,92328239,Pedro López,21/11/1978,false,720,Old Mutual,Bogotá,Cali,Ninguna,false,false,true,false,true
+CE,32591478,José García,21/11/1986,false,469,Colfondos,Bogotá,Bogotá,Armada,true,false,false,true,false
+CE,86805889,Pedro Martínez,21/11/1993,false,221,Porvenir,Cali,Medellín,Ninguna,false,false,false,true,true
+PA,69127458,Carmen Martínez,21/11/1983,false,624,Proteccion,Medellín,Cali,Mininterior,true,false,false,false,true
+CE,25049043,Patricia Pérez,21/11/1983,false,639,Old Mutual,Medellín,Cartagena,Minsalud,true,false,false,true,false
+PA,31254854,Ana Pérez,21/11/1965,true,728,Old Mutual,Medellín,Barranquilla,Armada,false,false,false,true,true
+CE,45055568,Ana López,21/11/1988,false,181,Proteccion,Cartagena,Medellín,Policía,false,true,false,true,true
+CE,99004343,Pedro Rodríguez,21/11/1961,false,115,Proteccion,Cali,Bogotá,Armada,false,false,true,true,false
+PA,66002329,María Martínez,21/11/2001,false,227,Porvenir,Barranquilla,Bogotá,Mininterior,false,true,false,false,false
+CC,72832225,José Pérez,21/11/1962,false,399,Proteccion,Cali,Cartagena,Policía,false,false,true,false,true
+PA,11432519,José Martínez,21/11/1990,false,119,Old Mutual,Bogotá,Bogotá,Armada,true,true,true,true,false
+CE,73823249,María Sánchez,21/11/1996,false,450,Old Mutual,Cartagena,Medellín,Minsalud,false,true,true,true,true
+PA,76272915,Ana Sánchez,21/11/1998,false,597,Porvenir,Bogotá,Barranquilla,Minsalud,true,true,false,false,false
+CE,90653355,Patricia Sánchez,21/11/1969,false,396,Porvenir,Bogotá,Barranquilla,Ninguna,false,false,true,true,false
+PA,56204537,Juan López,21/11/1979,false,860,Colfondos,Cartagena,Bogotá,Policía,false,false,true,true,false
+PA,33323397,María López,21/11/1975,false,414,Proteccion,Barranquilla,Cali,Armada,false,true,false,false,true
+PA,05000158,Patricia Rodríguez,21/11/1967,false,298,Old Mutual,Cali,Cartagena,Minsalud,true,true,false,true,false
+PA,65475343,Pedro Pérez,21/11/1969,false,860,Colfondos,Cali,Cali,Mininterior,false,false,true,false,true
+CE,30850651,Juan Pérez,21/11/1962,false,337,Proteccion,Medellín,Medellín,Inpec,true,false,false,false,false
+PA,00138952,Carmen Rodríguez,21/11/1980,false,358,Old Mutual,Medellín,Medellín,Policía,true,false,true,true,true
+CC,86925234,Ana Rodríguez,21/11/1971,false,247,Porvenir,Medellín,Bogotá,Armada,false,true,true,false,true
+CE,83379291,Ana Sánchez,21/11/1962,false,673,Old Mutual,Barranquilla,Cali,Mininterior,true,false,true,true,false
+PA,10708197,Juan García,21/11/1962,false,483,Old Mutual,Cartagena,Medellín,Armada,false,false,false,true,false
+PA,85638610,Juan López,21/11/1991,false,659,Colfondos,Cartagena,Medellín,Minsalud,false,false,false,true,false
+CE,37767765,Patricia González,21/11/1963,false,326,Porvenir,Barranquilla,Bogotá,Policía,false,false,true,false,false
+CC,09218649,Luis Pérez,21/11/1980,true,595,Porvenir,Medellín,Cali,Inpec,true,false,true,true,true
+CE,78476109,Carmen Rodríguez,21/11/1969,true,340,Colfondos,Bogotá,Medellín,Inpec,false,false,false,false,true
+CC,67549088,José Sánchez,21/11/1979,false,379,Porvenir,Cali,Cali,Inpec,false,true,true,false,false
+PA,21281061,Juan González,21/11/1981,false,290,Colfondos,Bogotá,Cali,Ninguna,true,false,true,false,true
+CE,54139781,Ana García,21/11/1995,false,931,Porvenir,Barranquilla,Cali,Minsalud,true,true,false,false,true
+CE,98879704,Juan Rodríguez,21/11/1985,false,506,Colfondos,Cartagena,Cali,Policía,true,false,true,true,true
+CE,84453187,Patricia González,21/11/2005,false,122,Colfondos,Barranquilla,Cartagena,Minsalud,false,false,true,true,false
+PA,15614466,María Sánchez,21/11/1977,false,618,Colfondos,Medellín,Cartagena,Armada,false,false,true,false,true
+CC,27729414,Luis Pérez,21/11/1981,false,896,Proteccion,Bogotá,Barranquilla,Mininterior,false,true,true,false,false
+PA,86516813,María López,21/11/1967,false,370,Old Mutual,Cartagena,Barranquilla,Policía,false,false,true,false,false
+PA,29873010,Juan Pérez,21/11/1987,false,762,Proteccion,Cartagena,Bogotá,Mininterior,false,true,false,false,true
+PA,38540181,Pedro López,21/11/2006,false,158,Porvenir,Bogotá,Cartagena,Inpec,true,false,true,true,true
+PA,21168194,Luis Sánchez,21/11/1992,false,710,Proteccion,Barranquilla,Medellín,Mininterior,false,true,false,true,true
+CC,23842309,Juan Sánchez,21/11/1965,false,183,Porvenir,Medellín,Barranquilla,Policía,true,true,false,true,true
+CE,96623024,Luis Martínez,21/11/1979,false,170,Old Mutual,Bogotá,Cartagena,Mininterior,true,false,true,true,false
+CE,22736044,José López,21/11/1985,true,127,Colfondos,Barranquilla,Medellín,Inpec,true,true,true,true,true
+CE,98643234,Luis Martínez,21/11/1967,false,869,Proteccion,Medellín,Cali,Policía,false,false,true,false,true
+CC,95161373,José Rodríguez,21/11/1965,false,375,Old Mutual,Cali,Cartagena,Armada,false,true,false,false,false
+CE,87014420,María García,21/11/1982,false,757,Proteccion,Barranquilla,Medellín,Minsalud,false,false,true,true,false
+CE,27259075,Carmen García,21/11/1961,true,164,Porvenir,Barranquilla,Medellín,Inpec,false,false,true,true,false
+CC,94023650,Juan Martínez,21/11/1971,false,441,Proteccion,Cartagena,Medellín,Mininterior,false,false,true,false,true
+CE,62021316,Juan Pérez,21/11/1982,false,520,Old Mutual,Cartagena,Bogotá,Policía,false,false,true,true,true
+CE,30939672,Carmen Rodríguez,21/11/1961,true,367,Old Mutual,Medellín,Barranquilla,Armada,false,true,true,false,false
+CC,39997599,María González,21/11/1981,true,176,Proteccion,Barranquilla,Cali,Minsalud,true,false,false,false,true
+CC,44368449,Pedro González,21/11/1996,false,223,Old Mutual,Cali,Medellín,Ninguna,false,true,false,true,false
+CE,93825084,María Martínez,21/11/1964,false,206,Porvenir,Cartagena,Medellín,Inpec,false,false,false,false,false
+CE,25152657,Patricia Pérez,21/11/1974,false,274,Porvenir,Cali,Medellín,Armada,true,false,false,true,false
+CC,59267091,Juan López,21/11/1972,false,122,Proteccion,Bogotá,Cali,Minsalud,true,true,false,false,false
+CC,95348896,Carmen López,21/11/1975,false,125,Proteccion,Cartagena,Cali,Minsalud,false,true,true,true,true
+PA,13814024,Carmen López,21/11/1993,false,702,Colfondos,Bogotá,Barranquilla,Ninguna,true,true,true,true,true
+PA,54472371,Pedro González,21/11/1985,false,491,Proteccion,Medellín,Bogotá,Mininterior,false,true,true,false,true
+CE,48869203,José González,21/11/1962,false,669,Porvenir,Barranquilla,Bogotá,Policía,true,false,true,false,true
+CE,51293592,Luis Martínez,21/11/1969,false,144,Porvenir,Barranquilla,Bogotá,Inpec,false,true,true,true,false
+CC,19574442,Luis Sánchez,21/11/1970,false,837,Proteccion,Barranquilla,Barranquilla,Armada,true,true,true,true,false
+PA,83287361,Juan Sánchez,21/11/1988,false,926,Old Mutual,Cartagena,Medellín,Mininterior,true,false,false,false,true
+CE,74943048,Luis Martínez,21/11/1976,false,433,Proteccion,Bogotá,Cartagena,Ninguna,true,true,false,true,true
+CE,97556712,Luis Pérez,21/11/1978,true,671,Colfondos,Cali,Cali,Policía,true,false,false,true,true
+CC,18443811,Pedro López,21/11/1970,false,983,Colfondos,Bogotá,Cartagena,Mininterior,true,true,true,false,true
+CE,53797831,Luis García,21/11/1990,false,434,Porvenir,Bogotá,Cartagena,Ninguna,true,true,true,false,true
+CC,64407591,Patricia Rodríguez,21/11/1999,false,102,Porvenir,Bogotá,Cartagena,Ninguna,true,true,true,true,false
+CE,06446678,María Pérez,21/11/1981,false,492,Colfondos,Medellín,Bogotá,Inpec,true,true,true,true,false
+CE,04846336,Carmen Pérez,21/11/2000,false,903,Porvenir,Bogotá,Cali,Inpec,true,false,false,false,false
+CE,95450979,Pedro González,21/11/1969,false,201,Porvenir,Medellín,Bogotá,Minsalud,false,false,false,false,true
+CE,07196565,María López,21/11/1977,false,290,Colfondos,Bogotá,Cartagena,Inpec,false,true,false,true,false
+PA,72342852,Patricia Pérez,21/11/1962,false,702,Proteccion,Cali,Barranquilla,Minsalud,true,true,false,false,true
+CC,36512513,Patricia Rodríguez,21/11/1967,false,671,Old Mutual,Barranquilla,Barranquilla,Armada,true,true,false,true,true
+PA,27478176,Ana Sánchez,21/11/1994,false,167,Old Mutual,Bogotá,Medellín,Inpec,false,true,true,false,false
+PA,27339867,José Martínez,21/11/2005,false,364,Proteccion,Bogotá,Bogotá,Minsalud,false,true,false,false,true
+CE,69320800,María Pérez,21/11/1960,false,832,Porvenir,Cartagena,Barranquilla,Ninguna,true,false,false,true,false
+PA,39206246,Luis Rodríguez,21/11/1979,false,865,Old Mutual,Barranquilla,Cartagena,Minsalud,true,false,false,false,true
+PA,34847356,Patricia González,21/11/1972,false,280,Proteccion,Barranquilla,Bogotá,Ninguna,false,false,true,false,false
+CC,83844289,Patricia Rodríguez,21/11/1974,false,645,Porvenir,Barranquilla,Barranquilla,Mininterior,false,false,true,false,true
+PA,89834617,Luis González,21/11/1994,false,174,Porvenir,Bogotá,Medellín,Policía,false,true,true,true,false
+CE,58210008,María López,21/11/2005,false,470,Porvenir,Cartagena,Cali,Minsalud,true,true,false,true,true
+CE,54374282,María López,21/11/1976,false,478,Old Mutual,Barranquilla,Cartagena,Policía,false,true,false,true,true
+CC,19476617,Carmen Sánchez,21/11/1985,false,888,Old Mutual,Medellín,Medellín,Policía,false,true,true,false,true
+PA,61274990,José García,21/11/1964,false,510,Porvenir,Cali,Bogotá,Armada,true,false,false,true,false
+CC,11672561,Ana Pérez,21/11/1989,false,336,Proteccion,Cali,Bogotá,Inpec,true,true,true,true,true
+CE,11019571,María López,21/11/1994,false,330,Old Mutual,Cartagena,Cali,Inpec,true,false,true,false,false
+PA,89325450,José González,21/11/1994,false,941,Porvenir,Cartagena,Medellín,Inpec,true,false,false,false,true
+PA,42405185,Luis García,21/11/2002,true,526,Porvenir,Barranquilla,Barranquilla,Inpec,true,false,true,true,false
+PA,75585384,Patricia Rodríguez,21/11/2004,false,858,Proteccion,Medellín,Bogotá,Mininterior,true,true,false,true,true
+CC,75531286,José López,21/11/1999,true,482,Colfondos,Cartagena,Bogotá,Policía,true,true,false,false,true
+PA,77298663,María Pérez,21/11/2006,false,325,Old Mutual,Medellín,Medellín,Ninguna,true,false,false,false,false
+PA,21513034,Pedro Martínez,21/11/1982,false,366,Porvenir,Medellín,Cartagena,Ninguna,false,false,true,false,true
+CE,37194204,José Pérez,21/11/1983,false,854,Colfondos,Cali,Medellín,Minsalud,false,false,true,true,false
+PA,88340367,Luis López,21/11/2004,false,458,Old Mutual,Cali,Barranquilla,Mininterior,true,true,false,false,false
+PA,83879146,Ana Rodríguez,21/11/2001,false,723,Old Mutual,Medellín,Cartagena,Armada,false,true,false,true,false
+CE,65639303,Patricia Rodríguez,21/11/1982,false,829,Proteccion,Barranquilla,Bogotá,Inpec,true,false,true,true,false
+CC,10426426,Pedro Rodríguez,21/11/1982,false,936,Colfondos,Bogotá,Medellín,Ninguna,false,false,false,true,false
+CE,48471125,Luis González,21/11/1971,false,980,Proteccion,Cali,Cali,Inpec,false,false,true,true,false
+CC,69283201,Ana González,21/11/1990,false,678,Old Mutual,Cartagena,Bogotá,Mininterior,true,false,false,true,true
+CC,84857104,Luis López,21/11/1974,false,104,Proteccion,Barranquilla,Bogotá,Ninguna,true,false,true,true,true
+PA,88499662,Patricia López,21/11/1992,false,867,Porvenir,Medellín,Medellín,Armada,true,true,true,true,false
+CC,56794941,Juan Pérez,21/11/1994,false,293,Old Mutual,Cartagena,Cartagena,Policía,true,true,false,false,false
+CC,41133908,José Martínez,21/11/1987,true,134,Colfondos,Barranquilla,Cali,Minsalud,true,false,true,true,true
+PA,87099048,María Martínez,21/11/2002,false,982,Porvenir,Cartagena,Cali,Mininterior,false,false,false,false,false
+CC,62163683,María Rodríguez,21/11/1968,false,105,Porvenir,Cartagena,Cali,Inpec,true,true,true,false,true
+CC,17603029,Juan García,21/11/2002,false,872,Porvenir,Bogotá,Medellín,Policía,true,false,false,true,false
+CC,32266857,María Sánchez,21/11/1985,false,485,Old Mutual,Barranquilla,Cali,Armada,false,true,false,true,false
+CC,17164592,Pedro López,21/11/1994,false,979,Old Mutual,Barranquilla,Medellín,Mininterior,true,true,false,true,false
