@@ -2,6 +2,8 @@ package com.metzuryProjects.co.utilidades;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.io.BufferedWriter;
+
 
 public class LecturaCsv {
 
@@ -25,10 +27,22 @@ public class LecturaCsv {
         return lista;
     }
 
+    /**
+     * Metodo para agregar una linea de texto al csv seperandola por comas 
+     * @param ruta
+     * @param linea
+     */
     public static void  agregarCSV(String ruta, ArrayList<String> linea){
-        FileWriter archivo = new FileWriter(ruta);
-        try(BufferedWriter escritor = BufferedWriter(archivo)){
-            escritor.write();
+        try(BufferedWriter escritor = new BufferedWriter(new FileWriter(ruta,true))){
+            for(int i=0; i<linea.size();i++){
+                if(i < linea.size()-1){
+                    escritor.append(linea.get(i) + ",");
+                }else{
+                    escritor.append(linea.get(i));
+                }
+            }
+            escritor.newLine();
+            System.out.println("información de "+ linea.get(2) + " guardada en CSV exitosamente");
         }catch(IOException e){
             e.printStackTrace();
         }

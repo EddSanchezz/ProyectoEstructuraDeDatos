@@ -1,7 +1,9 @@
 package com.metzuryProjects.co.modelos;
 
+import java.util.Iterator;
+import java.util.NoSuchElementException;
 
-public class ListaEnlazada<T> {
+public class ListaEnlazada<T> implements Iterable<T> {
     private Nodo<T> cabeza;
     private Nodo<T> cola;
     private int tamaño;
@@ -167,6 +169,36 @@ public class ListaEnlazada<T> {
             actual = actual.siguiente;
         }
         System.out.println();
+    }
+
+    // Metodo para implementar un iterador
+    @Override
+    public Iterator<T> iterator() {
+        return new IteradorLista<>(cabeza);
+    }
+
+    // Clase interna para el iterador
+    private static class IteradorLista<T> implements Iterator<T> {
+        private Nodo<T> actual;
+
+        public IteradorLista(Nodo<T> cabeza) {
+            this.actual = cabeza;
+        }
+
+        @Override
+        public boolean hasNext() {
+            return actual != null;
+        }
+
+        @Override
+        public T next() {
+            if (actual == null) {
+                throw new NoSuchElementException();
+            }
+            T dato = actual.dato;
+            actual = actual.siguiente;
+            return dato;
+        }
     }
 
 }
